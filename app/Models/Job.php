@@ -9,12 +9,20 @@ class Job extends Model
 {
     use HasFactory;
 
-    // Geef aan welke velden "mass assignable" zijn
     protected $fillable = [
-        'title',
+        'user_id',
         'description',
-        'company_name',
-        'location',
-        'posted_date',
+        'location_id',
+        'fee',
     ];
+
+    public function user()
+    {
+        return $this->belongsTo(User::class);
+    }
+
+    public function location()
+    {
+        return $this->belongsTo(Location::class);
+    }
 }

@@ -9,10 +9,10 @@ class Event extends Model
 {
     use HasFactory;
 
-    protected $fillable = [
-        'name',
-        'description',
-        'date',
-    ];
-}
+    protected $fillable = ['location_id', 'name', 'date'];
 
+    public function location()
+    {
+        return $this->belongsTo(Location::class);
+    }
+}
