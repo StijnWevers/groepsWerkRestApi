@@ -12,7 +12,6 @@ class CreateJobsTable extends Migration
             $table->id();
             $table->foreignId('user_id')->constrained('users')->onDelete('cascade');
             $table->text('description');
-            $table->foreignId('location_id')->constrained('locations')->onDelete('cascade');
             $table->decimal('fee', 10, 2);
             $table->timestamps();
         });
@@ -23,3 +22,4 @@ class CreateJobsTable extends Migration
         Schema::dropIfExists('jobs');
     }
 }
+
