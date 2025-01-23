@@ -32,6 +32,10 @@ class Kernel extends HttpKernel
             \Illuminate\Routing\Middleware\SubstituteBindings::class,
         ],
     ];
+    protected $commands = [
+        Commands\ImportJobs::class,
+    ];
+    
 
     protected $routeMiddleware = [
         'auth' => \App\Http\Middleware\Authenticate::class,

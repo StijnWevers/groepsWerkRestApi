@@ -1,0 +1,303 @@
+[
+    {
+      "title": "Hond uitlaten",
+      "description": "Neem mijn hond mee voor een wandeling van ongeveer een half uur. Hij is vriendelijk en houdt van buiten zijn.",
+      "fee": 10,
+      "location": "Genk"
+    },
+    {
+      "title": "Gras maaien",
+      "description": "Het gras in mijn achtertuin is hoog. Kun jij het maaien en netjes achterlaten?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Babysitten",
+      "description": "Ik zoek iemand die een avondje op mijn kinderen kan passen. Spelletjes spelen, een verhaaltje lezen en op tijd naar bed brengen.",
+      "fee": 30,
+      "location": "Genk"
+    },
+    {
+      "title": "Boodschappen doen",
+      "description": "Ik heb een lijstje met boodschappen nodig voor de hele week. Wil je die voor me halen?",
+      "fee": 12,
+      "location": "Genk"
+    },
+    {
+      "title": "Auto wassen",
+      "description": "Mijn auto kan wel een schoonmaakbeurt gebruiken, binnen en buiten. Denk je dat je dat netjes kunt doen?",
+      "fee": 25,
+      "location": "Genk"
+    },
+    {
+      "title": "Garage opruimen",
+      "description": "De garage is behoorlijk rommelig. Kun jij helpen met sorteren en schoonmaken zodat alles weer georganiseerd is?",
+      "fee": 30,
+      "location": "Genk"
+    },
+    {
+      "title": "Tuin wieden",
+      "description": "Het onkruid in mijn tuin moet eruit. Kun jij dat voor me aanpakken?",
+      "fee": 20,
+      "location": "Genk"
+    },
+    {
+      "title": "Meubels verplaatsen",
+      "description": "Ik wil enkele zware meubels verplaatsen in huis, maar ik heb hulp nodig. Kun jij een handje helpen?",
+      "fee": 40,
+      "location": "Genk"
+    },
+    {
+      "title": "Kast in elkaar zetten",
+      "description": "Ik heb een nieuwe kast gekocht (bijv. IKEA) en krijg 'm niet alleen in elkaar. Kun jij assisteren?",
+      "fee": 50,
+      "location": "Genk"
+    },
+    {
+      "title": "Schilderen (binnen)",
+      "description": "Een muur in mijn huis heeft een likje verf nodig. Heb je ervaring en kun je netjes werken?",
+      "fee": 60,
+      "location": "Genk"
+    },
+    {
+      "title": "Keuken schoonmaken",
+      "description": "Mijn keuken is toe aan een grondige schoonmaak. Inclusief gootsteen, aanrecht en eventueel oven.",
+      "fee": 35,
+      "location": "Genk"
+    },
+    {
+      "title": "Fiets repareren",
+      "description": "Mijn fiets heeft een lekke band en de ketting moet nagelopen worden. Kun jij dit voor me oplossen?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Koelkast schoonmaken",
+      "description": "De koelkast moet grondig worden gereinigd. Kun je hem leegmaken, schoonmaken en weer netjes inruimen?",
+      "fee": 25,
+      "location": "Genk"
+    },
+    {
+      "title": "Hek schilderen",
+      "description": "Het hek in mijn tuin heeft een nieuwe verflaag nodig. Vind je schilderen leuk?",
+      "fee": 40,
+      "location": "Genk"
+    },
+    {
+      "title": "Computer/technische hulp",
+      "description": "Ik heb hulp nodig bij het instellen van mijn computer en een paar kleine softwareklusjes. Kun jij me daarmee helpen?",
+      "fee": 25,
+      "location": "Genk"
+    },
+    {
+      "title": "Planten verzorgen",
+      "description": "Mijn kamerplanten hebben water en wat aandacht nodig terwijl ik weg ben. Kun jij dagelijks even langsgaan?",
+      "fee": 10,
+      "location": "Genk"
+    },
+    {
+      "title": "Kleine tuinierklus (bloembed)",
+      "description": "Ik wil een bloembed aanleggen en wat bloemen planten. Kun jij helpen met grond voorbereiden en planten?",
+      "fee": 20,
+      "location": "Genk"
+    },
+    {
+      "title": "Kleding strijken",
+      "description": "Er ligt een berg kleding die gestreken moet worden. Kun jij die netjes wegwerken?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Kast opruimen/organiseren",
+      "description": "Mijn kledingkast is een chaos. Kun jij helpen met sorteren en alles netjes inruimen?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Verjaardagsdecoratie ophangen",
+      "description": "Ik heb versieringen voor een feestje. Kun je helpen alles op te hangen en de ruimte in te richten?",
+      "fee": 20,
+      "location": "Genk"
+    },
+    {
+      "title": "Huis stofzuigen",
+      "description": "Het hele huis kan wel een stofzuigbeurt gebruiken. Kun jij alles grondig doen?",
+      "fee": 18,
+      "location": "Genk"
+    },
+    {
+      "title": "Ramen lappen",
+      "description": "Mijn ramen zijn vies en hebben een goede schoonmaakbeurt nodig, binnen en eventueel buiten.",
+      "fee": 25,
+      "location": "Genk"
+    },
+    {
+      "title": "Tuinmeubels schoonmaken",
+      "description": "De tuinmeubels zijn stoffig en vuil. Kun jij ze afnemen en schoonmaken zodat ze weer klaar zijn voor gebruik?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Plinten schoonmaken",
+      "description": "De plinten in mijn huis zijn stoffig. Kun jij ze grondig schoonmaken?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Hond voeren",
+      "description": "Ik ben weg en mijn hond moet eten krijgen. Alles staat klaar, kun je even langskomen?",
+      "fee": 8,
+      "location": "Genk"
+    },
+    {
+      "title": "Kattenbak verschonen",
+      "description": "Mijn kat maakt graag gebruik van een schone bak. Kun jij die even schoonmaken?",
+      "fee": 10,
+      "location": "Genk"
+    },
+    {
+      "title": "Boekenkast sorteren",
+      "description": "Mijn boekenkast is een rommeltje. Kun jij de boeken netjes sorteren en op genre/alfabet zetten?",
+      "fee": 10,
+      "location": "Genk"
+    },
+    {
+      "title": "Lampen vervangen",
+      "description": "Er zijn een paar lampen in huis doorgebrand. Kun jij die voor me vervangen?",
+      "fee": 8,
+      "location": "Genk"
+    },
+    {
+      "title": "Bedden verschonen",
+      "description": "Kun jij de lakens vervangen en de bedden opnieuw opmaken met schoon beddengoed?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Wasmachine leeghalen en was ophangen",
+      "description": "De was is klaar. Kun jij de wasmachine leegmaken en alles ophangen?",
+      "fee": 10,
+      "location": "Genk"
+    },
+    {
+      "title": "Trap stofzuigen",
+      "description": "De trap heeft hoognodig een stofzuigbeurt nodig. Kun je dit even doen?",
+      "fee": 12,
+      "location": "Genk"
+    },
+    {
+      "title": "Oud papier wegbrengen",
+      "description": "Er staan kranten en dozen klaar om te worden gerecycled. Wil jij ze wegbrengen?",
+      "fee": 5,
+      "location": "Genk"
+    },
+    {
+      "title": "Schuur opruimen",
+      "description": "De schuur is rommelig. Kun jij me helpen alles uit te zoeken en opnieuw te organiseren?",
+      "fee": 30,
+      "location": "Genk"
+    },
+    {
+      "title": "Kleine reparaties in huis",
+      "description": "Er zijn wat kleine dingen die gerepareerd moeten worden (losse deurklink, piepende scharnieren). Kun je helpen?",
+      "fee": 35,
+      "location": "Genk"
+    },
+    {
+      "title": "Tijdschriften sorteren",
+      "description": "Er ligt een stapel tijdschriften die op datum/onderwerp gesorteerd moeten worden. Kun jij die netjes ordenen?",
+      "fee": 10,
+      "location": "Genk"
+    },
+    {
+      "title": "Tuinpad schoonmaken",
+      "description": "Het tuinpad is glad en heeft een schoonmaakbeurt nodig. Kun je het weer veilig maken?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Stoep schoonspuiten",
+      "description": "De stoep voor mijn huis is vies. Kun jij deze met een hogedrukreiniger schoonspuiten?",
+      "fee": 20,
+      "location": "Genk"
+    },
+    {
+      "title": "Afwas doen",
+      "description": "Er staat een afwas die nog gedaan moet worden. Kun je die wegwerken en afdrogen?",
+      "fee": 8,
+      "location": "Genk"
+    },
+    {
+      "title": "Kledingkast organiseren",
+      "description": "Mijn kledingkast zit overvol en is niet meer overzichtelijk. Kun jij helpen met sorteren?",
+      "fee": 12,
+      "location": "Genk"
+    },
+    {
+      "title": "Tuin vegen",
+      "description": "De bladeren en takjes in de tuin moeten opgeruimd worden. Kun jij alles bij elkaar vegen?",
+      "fee": 10,
+      "location": "Genk"
+    },
+    {
+      "title": "Deuren schoonmaken",
+      "description": "De deuren in mijn huis hebben vlekken en stof. Kun jij ze afnemen zodat ze weer netjes zijn?",
+      "fee": 10,
+      "location": "Genk"
+    },
+    {
+      "title": "Raamdecoratie ophangen",
+      "description": "Ik heb nieuwe gordijnen/lamellen gekocht. Kun jij ze ophangen en eventueel op maat maken?",
+      "fee": 20,
+      "location": "Genk"
+    },
+    {
+      "title": "Lijstjes ophangen",
+      "description": "Ik heb wat schilderijen en fotolijstjes die aan de muur moeten komen. Kun jij dat netjes voor me doen?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Hond trimmen (basis)",
+      "description": "Mijn hond heeft een eenvoudige trim/scheerbeurt nodig. Geen professionele knip, maar wel netjes bijwerken.",
+      "fee": 20,
+      "location": "Genk"
+    },
+    {
+      "title": "Kamer verven",
+      "description": "Ik wil een hele kamer van nieuwe verf voorzien (inclusief plafond). Kun jij het mooi en strak verven?",
+      "fee": 80,
+      "location": "Genk"
+    },
+    {
+      "title": "Tegelvloer schoonmaken",
+      "description": "De tegelvloer in de keuken/badkamer moet goed geschrobd en gedweild worden. Kun je dat doen?",
+      "fee": 15,
+      "location": "Genk"
+    },
+    {
+      "title": "Afzuigkap schoonmaken",
+      "description": "De afzuigkap boven mijn fornuis heeft zich flink opgestapeld met vet. Kun jij deze grondig schoonmaken?",
+      "fee": 10,
+      "location": "Genk"
+    },
+    {
+      "title": "Tuinhek repareren",
+      "description": "Het tuinhek is een beetje gammel en moet worden verstevigd of gerepareerd. Denk je dat je dat kunt?",
+      "fee": 35,
+      "location": "Genk"
+    },
+    {
+      "title": "Klein transport",
+      "description": "Ik moet een paar dozen en kleine spullen van punt A naar B brengen. Kun jij met auto of fiets helpen?",
+      "fee": 20,
+      "location": "Genk"
+    },
+    {
+      "title": "Helpen met verhuizen (kleine verhuizing)",
+      "description": "Ik heb een paar grote spullen en dozen die naar mijn nieuwe plek moeten. Kun je helpen tillen en inladen?",
+      "fee": 80,
+      "location": "Genk"
+    }
+  ]
+  
