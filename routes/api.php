@@ -9,7 +9,7 @@ use App\Models\Role;
 use App\Models\City;
 use App\Models\Event;
 use App\Http\Controllers\AuthController;
-
+use App\Http\Controllers\PostController;
 
 
 Route::post('/auth/login', [AuthController::class, 'login']);
@@ -199,3 +199,16 @@ Route::get('/users', function () {
         return response()->json($city, 201);
     });
 // });
+
+/**
+ * post Routes
+ */
+
+
+Route::middleware('auth:sanctum')->group(function () {
+    Route::get('/posts', [PostController::class, 'index']);
+    Route::post('/posts', [PostController::class, 'store']);
+    Route::put('/posts/{id}', [PostController::class, 'update']);
+    Route::delete('/posts/{id}', [PostController::class, 'destroy']);
+});
+
