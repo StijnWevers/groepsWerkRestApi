@@ -128,6 +128,18 @@ Route::get('/users', function () {
         $job->delete();
         return response()->json(null, 204);
     });
+
+    // get all jobs joined with users table and use DB raw
+    Route::get('/jobusers', function () {
+        return
+            DB::select(
+                DB::raw(
+                    'SELECT * FROM jobs
+                    JOIN users ON jobs.user_id = users.id'
+                )
+            );
+    });
+
 // });
 
 /**
